@@ -8,8 +8,9 @@
 This webpage is my first website made using Terminal and HTML. Keep up the good work and enjoy.
 
 ### Technologies
-*HTML
-*Terminal
+
+* HTML
+* Terminal
 
 ###legal
 Copyright (c) 2016 AD, BN
